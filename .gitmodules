@@ -1,5 +1,13 @@
 [submodule ".registry"]
 	path = .registry
-	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
+	url = https://github.com/kullrich/kullrich.r-universe.dev
 	branch = HEAD
+[submodule "CRBHits"]
+	path = CRBHits
+	url = https://github.com/kullrich/crbhits
+[submodule "scTEI"]
+	path = scTEI
+	url = https://github.com/kullrich/sctei
+[submodule "vGWAS"]
+	path = vGWAS
+	url = https://github.com/kullrich/vgwas
