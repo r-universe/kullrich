@@ -1,0 +1,10 @@
+{
+  "id": 66929712,
+  "created_at": "2025-05-15T08:58:27.000Z",
+  "repository_selection": "selected",
+  "permissions": {
+    "metadata": "read",
+    "statuses": "write"
+  },
+  "repositories": ["vGWAS", "CRBHits", "scTEI", "kullrich.r-universe.dev"]
+}
